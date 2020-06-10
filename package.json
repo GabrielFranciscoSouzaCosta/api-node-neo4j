@@ -1,0 +1,24 @@
+{
+  "name": "api-node-neo4j",
+  "version": "1.0.0",
+  "description": "It's just a kick starter with node and neo4j. After install neo4j desktop community edition, is just to follow the steps below:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GabrielFranciscoSouzaCosta/api-node-neo4j.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GabrielFranciscoSouzaCosta/api-node-neo4j/issues"
+  },
+  "homepage": "https://github.com/GabrielFranciscoSouzaCosta/api-node-neo4j#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "neo4j-driver": "^4.0.2"
+  }
+}
