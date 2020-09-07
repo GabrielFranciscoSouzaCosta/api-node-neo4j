@@ -65,6 +65,7 @@ module.exports = {
 				};
 				persons.push(person);
 			});
+
 			return persons;
 		}
 		finally
