@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/GabrielFranciscoSouzaCosta/api-node-neo4j#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "neo4j-driver": "^4.0.2"
   }
 }
